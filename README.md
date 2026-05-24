@@ -39,9 +39,10 @@
 
 ## Output
 ### MechAnalyzer Graph 
-![MechAnalyzer](MechAnalyzer.png)
+<img width="1044" height="652" alt="image" src="https://github.com/user-attachments/assets/b6a66771-6e61-43a8-92cd-6f2df5215659" />
 ### VAD, IC and SFA module
-![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
+<img width="1042" height="654" alt="image" src="https://github.com/user-attachments/assets/84589c21-9746-4b14-9643-e31f6d0deb1c" />
+
 ### Name: **ROHITH S**
 ### Register Number: **212225240121**
 
